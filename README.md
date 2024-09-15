@@ -39,6 +39,20 @@
 
 <hr>
 
+<br><br>
+
+## ❤️‍🔥Experience
+|경험|기간|
+|---|---|
+| 🎓 **[Gachon University, Department of Computer Engineering](https://www.gachon.ac.kr/sites/cs/index.do) Undergraduate Student** | 2024.03 ~ |
+| 💿 **[가천대학교 코딩동아리 KKSC](kksc.kr) BackEnd** | 2024.03 ~ |
+| ☁️ **[9oormthon.Univ](https://9oormthon.university/) 3기** | 2024.06 ~ |
+| ⛺️ **[kakao X goorm DeepDive FullStack](https://deepdive.goorm.io/) 11회**| 2024.08 ~|
+
+
+<br>
+<hr>
+
 <div>
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sumin220&show_icons=true&locale=en&layout=compact" alt="sumin220" /> 
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=sumin220&show_icons=true&locale=en" alt="sumin220" />
@@ -46,7 +60,7 @@
 
 <hr>
 
-<h3>Algorithm</h3>
+<h3>🏆Algorithm</h3>
 <div>
     <a href="https://solved.ac/sonsumin422/">
         <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sonsumin422" alt="Solved.ac Profile"/>

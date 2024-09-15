@@ -1,40 +1,49 @@
-<div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=120&text=I'm%20SooMin!&animation=fadeIn&fontColor=000000&fontSize=70" />
-    </div>
-    <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 안녕하세요! </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">  </div> 
-    </div>
-    <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
-    <div  align= "center"> <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
-          <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white">
-          <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
-          <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
-          <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
-          <br/><img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white">
-          <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white">
-          <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white">
-          <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
-          <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
-          <br/><img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white">
-          </div>
-    </div>
-    <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
-    <div align= "center"> <a href=https://www.notion.so/9b369ef844554ab28b1632b3368e9ff9> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://www.notion.so/9b369ef844554ab28b1632b3368e9ff9"> </a>
-         <a href=mailto:sonsumin00@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:sonsumin00@gmail.com"> </a>
-          </div>  <br> 
-    <div align= "center">  </div> 
-    </div>
-    <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=sumin220&bg_color=180,00000000,&title_color=000000&text_color=000000"
-         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumin220&layout=compact&bg_color=180,00000000,&title_color=000000&text_color=000000"
-           />
-    <img src="http://mazassumnida.wtf/api/generate_badge?boj={sonsumin422})](https://solved.ac/sonsumin422)"/>
-        </div> 
-    </div>
-    
+![MasterHead](https://download-free-images.com/00002/hello-gif-a-nice-penguin-947098.gif)
+<img src="http://readme-typing-svg.herokuapp.com?font=Josefin+Slab&pause=1000&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Soo min;Learning+Backend+Web+Development...👨🏻‍💻;" style="width: 100%;">
 
+<h3 align="center">A passionate student aspiring to become a backend developer</h3>
+<img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=6c09b952ywypmb2ar3ssitss6ljpuo7824j9wn4g41y6ucp6&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
-    
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sumin220&label=Profile%20views&color=0e75b6&style=flat" alt="sumin220" /> </p>
+
+- 🔭 I’m currently studying at **Gachon.Univ**
+
+- 🌱 I’m currently learning **SpringBoot**
+
+- 📫 How to reach me **sonsumin00@gmail.com**
+
+<p align="left">
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<a href="https://spring.io/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> 
+</a>
+
+<a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
+    <img src="https://blog.kakaocdn.net/dn/PU3rE/btqCsGX4F5Y/8ZABETPD4HoiOS2GHuFkT1/img.png" alt="springBoot" width="80" height="40"/>
+</a>
+
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+</a>
+
+<a href="https://www.java.com" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
+</a>
+
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
+</a>
+
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
+</a> 
+
+<hr>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sumin220&show_icons=true&locale=en&layout=compact" alt="sumin220" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=sumin220&show_icons=true&locale=en" alt="sumin220" /></p>
+<hr>
+<h3 align="left">Algorithm</h3>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sonsumin422)](https://solved.ac/sonsumin422/)
+

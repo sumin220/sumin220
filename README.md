@@ -49,8 +49,17 @@
 | ☁️ **[9oormthon.Univ](https://9oormthon.university/) 3기** | 2024.06 ~ |
 | ⛺️ **[kakao X goorm DeepDive FullStack](https://deepdive.goorm.io/) 11회**| 2024.08 ~|
 
+<br>
+
+<br><br>
+
+## 📜Project
+|프로젝트|기간|
+|---|---|
+| 💿 **[KKSC 동아리 홈페이지 제작](https://github.com/orgs/KKSC-1/repositories) BE Part** | 2024.06 ~ 2024.08 |
 
 <br>
+
 <hr>
 
 <div>

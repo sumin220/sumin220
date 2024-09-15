@@ -13,14 +13,14 @@
 - 🌱 I’m currently learning **SpringBoot**
 - 📫 How to reach me **sonsumin00@gmail.com**
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">🖥️ Languages and Tools:</h3>
 
 <p align="center">
     <a href="https://spring.io/" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> 
     </a>
     <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
-        <img src="https://blog.kakaocdn.net/dn/PU3rE/btqCsGX4F5Y/8ZABETPD4HoiOS2GHuFkT1/img.png" alt="springBoot" width="40" height="40"/>
+        <img src="https://blog.kakaocdn.net/dn/PU3rE/btqCsGX4F5Y/8ZABETPD4HoiOS2GHuFkT1/img.png" alt="springBoot" width="80" height="40"/>
     </a>
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 

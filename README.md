@@ -32,4 +32,6 @@
          /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumin220&layout=compact&bg_color=180,00000000,&title_color=000000&text_color=000000"
            /> </div> 
     </div>
+
+    [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=백준아이디)](https://solved.ac/백준아이디/)
     

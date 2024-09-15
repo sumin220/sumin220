@@ -33,7 +33,7 @@
            /> </div> 
     </div>
     [![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj={handle})](https://solved.ac/{handle})
+프로필](http://mazassumnida.wtf/api/generate_badge?boj={sonsumin422})](https://solved.ac/{sonsumin422})
 
 
     

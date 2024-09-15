@@ -1,4 +1,5 @@
 ![MasterHead](https://download-free-images.com/00002/hello-gif-a-nice-penguin-947098.gif)
+
 <img src="http://readme-typing-svg.herokuapp.com?font=Josefin+Slab&pause=1000&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Soo min;Learning+Backend+Web+Development...👨🏻‍💻;" style="width: 100%;">
 
 <h3 align="center">A passionate student aspiring to become a backend developer</h3>
@@ -45,5 +46,6 @@
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=sumin220&show_icons=true&locale=en" alt="sumin220" /></p>
 <hr>
 <h3 align="left">Algorithm</h3>
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sonsumin422)](https://solved.ac/sonsumin422/)
 

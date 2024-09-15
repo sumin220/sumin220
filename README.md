@@ -9,13 +9,9 @@
 </p>
 <hr>
 
-- 🔭 I’m currently studying at **Gachon.Univ**
-- 🌱 I’m currently learning **SpringBoot**
-- 📫 How to reach me **sonsumin00@gmail.com**
-
 <h3 align="left">🖥️ Languages and Tools:</h3>
 
-<p align="center">
+<p>
     <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
     </a>
@@ -25,6 +21,7 @@
     <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
         <img src="https://blog.kakaocdn.net/dn/PU3rE/btqCsGX4F5Y/8ZABETPD4HoiOS2GHuFkT1/img.png" alt="springBoot" width="100" height="40"/>
     </a>
+    <p></p>
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
     </a>
@@ -36,7 +33,6 @@
     </a> 
 </p>
 <p></p>
-
 <hr>
 
 <br><br>

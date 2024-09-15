@@ -31,7 +31,8 @@
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=sumin220&bg_color=180,00000000,&title_color=000000&text_color=000000"
          /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumin220&layout=compact&bg_color=180,00000000,&title_color=000000&text_color=000000"
            /> </div> 
-    [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sonsumin422)](https://solved.ac/sonsumin422/)
+    [![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={sonsumin422})](https://solved.ac/{sonsumin422})
     </div>
 
     

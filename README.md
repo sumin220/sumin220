@@ -42,7 +42,7 @@
 |---|---|
 | 🎓 **[Gachon University, Department of Computer Engineering](https://www.gachon.ac.kr/sites/cs/index.do) Undergraduate Student** | 2024.03 ~ |
 | 💿 **[교내 코딩동아리 KKSC](kksc.kr) BackEnd** | 2024.03 ~ |
-| ☁️ **[9oormthon.Univ](https://9oormthon.university/) 3기** | 2024.06 ~ |
+| ☁️ **[9oormthon.Univ](https://9oormthon.university/) 3기** | 2024.07 ~ |
 | ⛺️ **[kakao X goorm DeepDive FullStack](https://deepdive.goorm.io/) 11회**| 2024.08 ~|
 
 <br>

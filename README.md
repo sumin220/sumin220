@@ -51,8 +51,10 @@
 
 ## 📜Project
 |프로젝트|기간|
-|---|---|
+|---|---|https://github.com/KagounivTeam2
 | 💿 **[KKSC 동아리 홈페이지 제작](https://github.com/orgs/KKSC-1/repositories) BE Part** | 2024.06 ~ 2024.08 |
+| 💿 **[구름톤 연합 해커톤](https://github.com/KagounivTeam2) BE Part** | 2024.09.28 ~ 2024.09.29 |
+
 
 <br>
 

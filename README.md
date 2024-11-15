@@ -31,6 +31,9 @@
     <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
     </a> 
+    <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
+        <img src="https://blog.kakaocdn.net/dn/l8Hkt/btqEzeUzi79/9lbAN6lw803rD6mwPDACr0/img.png" alt="aws" width="40" height="40"/>
+    </a>
 </p>
 <p></p>
 <hr>

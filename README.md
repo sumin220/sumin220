@@ -44,7 +44,7 @@
 |경험|기간|
 |---|---|
 | 🎓 **[Gachon University, Department of Computer Engineering](https://www.gachon.ac.kr/sites/cs/index.do) Undergraduate Student** | 2024.03 ~ |
-| 💿 **[교내 코딩동아리 KKSC](kksc.kr) BackEnd** | 2024.03 ~ |
+| 💿 **[KKSC](kksc.kr) BackEnd** | 2024.03 ~ |
 | ☁️ **[9oormthon.Univ](https://9oormthon.university/) 3기** | 2024.07 ~ |
 | ⛺️ **[kakao X goorm DeepDive FullStack](https://deepdive.goorm.io/) 11회**| 2024.08 ~|
 
@@ -55,7 +55,7 @@
 ## 📜Project
 |프로젝트|기간|
 |---|---|
-| 💿 **[KKSC 동아리 홈페이지 제작](https://github.com/orgs/KKSC-1/repositories) BE Part** | 2024.06 ~ 2024.08 |
+| 💿 **[KKSC 홈페이지 제작](https://github.com/orgs/KKSC-1/repositories) BE Part** | 2024.06 ~ 2024.08 |
 | ☁️ **[Be:goorm](https://github.com/KagounivTeam2) BE Part** | 2024.09.28 ~ 2024.09.29 |
 
 

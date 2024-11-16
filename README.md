@@ -52,7 +52,7 @@
 
 <br><br>
 
-## 📜Project
+## 📜Team Project
 |프로젝트|기간|
 |---|---|
 | 💿 **[KKSC 홈페이지 제작](https://github.com/orgs/KKSC-1/repositories) BE Part** | 2024.06 ~ 2024.08 |

@@ -4,39 +4,42 @@
 
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=6c09b952ywypmb2ar3ssitss6ljpuo7824j9wn4g41y6ucp6&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
-<p align="left"> 
-    <img src="https://komarev.com/ghpvc/?username=sumin220&label=Profile%20views&color=0e75b6&style=flat" alt="sumin220" /> 
-</p>
 <hr>
 
-<h3 align="left">🖥️ Languages and Tools:</h3>
-
-<p>
-    <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-    </a>
-    <a href="https://spring.io/" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> 
-    </a>
-    <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
-        <img src="https://blog.kakaocdn.net/dn/PU3rE/btqCsGX4F5Y/8ZABETPD4HoiOS2GHuFkT1/img.png" alt="springBoot" width="100" height="40"/>
-    </a>
-    <p></p>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-    </a>
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-    </a>
-    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
-    </a> 
-    <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-        <img src="https://blog.kakaocdn.net/dn/l8Hkt/btqEzeUzi79/9lbAN6lw803rD6mwPDACr0/img.png" alt="aws" width="40" height="40"/>
-    </a>
-</p>
-<p></p>
-<hr>
+<div align="left">
+  <h2>🛠 Development Stack</h2>
+ 
+  <table>
+    <tr>
+      <td align="center">Backend</td>
+      <td>
+        <div align="left">
+          <img alt="SpringBoot" width="30px" src="https://raw.githubusercontent.com/zzangjyj0818/Github_User_Content/250d0ac27c7cfd8418823d26a74822e206f28d13/Spring-Dark.svg" />
+          &nbsp;
+          <img alt="Java" width="30px" src="https://raw.githubusercontent.com/zzangjyj0818/Github_User_Content/250d0ac27c7cfd8418823d26a74822e206f28d13/Java-Dark.svg" />
+          &nbsp;
+          <img alt="MySQL" width="30px" src="https://raw.githubusercontent.com/zzangjyj0818/Github_User_Content/250d0ac27c7cfd8418823d26a74822e206f28d13/MySQL-Dark.svg" />
+          &nbsp;
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td align="left">Infrastructure</td>
+      <td>
+          <div>
+            <img alt="AWS" width="30px" src="https://raw.githubusercontent.com/zzangjyj0818/Github_User_Content/250d0ac27c7cfd8418823d26a74822e206f28d13/AWS-Dark.svg" />
+            &nbsp;
+            <img alt="Nginx" width="30px" src="https://raw.githubusercontent.com/zzangjyj0818/Github_User_Content/250d0ac27c7cfd8418823d26a74822e206f28d13/Nginx.svg" />
+            &nbsp;
+            <img alt="GithubActions" width="30px" src="https://blog.kakaocdn.net/dn/dExbK3/btqD3I24Vm7/klw5iK8Dbpb7gRZAmeENwk/img.png" />
+            &nbsp;
+            <br/>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
+<br/>
 
 <br><br>
 
@@ -57,6 +60,8 @@
 |---|---|
 | 💿 **[KKSC 홈페이지 제작](https://github.com/orgs/KKSC-1/repositories) BE Part** | 2024.06 ~ 2024.08 |
 | ☁️ **[Be:goorm](https://github.com/KagounivTeam2) BE Part** | 2024.09.28 ~ 2024.09.29 |
+| ☀️ **[Ye;summit](https://github.com/9oormthon-univ/2024_DANPOON_TEAM_36_BE) BE Part** | 2024.11.18 ~ 2024.11.24 |
+
 
 
 

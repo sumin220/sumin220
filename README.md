@@ -61,6 +61,8 @@
 | 💿 **[KKSC 홈페이지 제작](https://github.com/orgs/KKSC-1/repositories) BE Part** | 2024.06 ~ 2024.08 |
 | ☁️ **[Be:goorm](https://github.com/KagounivTeam2) BE Part** | 2024.09.28 ~ 2024.09.29 |
 | ☀️ **[Ye;summit](https://github.com/9oormthon-univ/2024_DANPOON_TEAM_36_BE) BE Part** | 2024.11.18 ~ 2024.11.24 |
+| 🥅 **[마음의 그림](https://github.com/P-Diary/diary-be) BE Part** | 2024.11.25 ~ 2024.12.18 |
+
 
 
 

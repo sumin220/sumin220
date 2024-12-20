@@ -20,8 +20,6 @@
           &nbsp;
           <img alt="MySQL" width="30px" src="https://github.com/user-attachments/assets/aa76d67d-2ad3-43e7-81b0-7a249eaffd79" />
           &nbsp;
-          <img alt="AWS S3" width="30px" src="https://static-00.iconduck.com/assets.00/aws-s3-simple-storage-service-icon-1694x2048-ygs8j98c.png" />
-          &nbsp;
         </div>
       </td>
     </tr>
@@ -31,6 +29,8 @@
           <div>
             <img alt="AWS" width="30px" src="https://github.com/user-attachments/assets/251c8aa8-b2b5-43ce-8342-258e6e297ca0" />
             &nbsp;
+            <img alt="AWS S3" width="30px" src="https://static-00.iconduck.com/assets.00/aws-s3-simple-storage-service-icon-1694x2048-ygs8j98c.png" />
+          &nbsp;
             <img alt="Nginx" width="30px" src="https://github.com/user-attachments/assets/82069c4d-f218-4a33-af98-0cbe72aaa59c" />
             &nbsp;
             <img alt="Docker" width="30px" src="https://cdn-icons-png.flaticon.com/512/919/919853.png" />

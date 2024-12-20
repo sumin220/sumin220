@@ -29,11 +29,17 @@
           <div>
             <img alt="AWS" width="30px" src="https://github.com/user-attachments/assets/251c8aa8-b2b5-43ce-8342-258e6e297ca0" />
             &nbsp;
+            <img alt="AWS S3" width="30px" src="https://static-00.iconduck.com/assets.00/aws-s3-simple-storage-service-icon-1694x2048-ygs8j98c.png" />
+          &nbsp;
             <img alt="Nginx" width="30px" src="https://github.com/user-attachments/assets/82069c4d-f218-4a33-af98-0cbe72aaa59c" />
             &nbsp;
             <img alt="Docker" width="30px" src="https://cdn-icons-png.flaticon.com/512/919/919853.png" />
             &nbsp;
             <img alt="GithubActions" width="30px" src="https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2F1p874%2FbtsyD7KW2Hm%2FN4m2knx9ayOkJLzSFAEXmk%2Fimg.png" />
+            &nbsp;
+            <img alt="Prometheus" width="30px" src="https://cdn.iconscout.com/icon/free/png-256/free-prometheus-282488.png?f=webp" />
+            &nbsp;
+             <img alt="Grafana" width="30px" src="https://cdn.iconscout.com/icon/free/png-256/free-grafana-3521466-2944910.png" />
             &nbsp;
             <br/>
         </div>

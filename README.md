@@ -14,11 +14,11 @@
       <td align="center">Backend</td>
       <td>
         <div align="left">
-          <img alt="SpringBoot" width="30px" src="https://raw.githubusercontent.com/zzangjyj0818/Github_User_Content/250d0ac27c7cfd8418823d26a74822e206f28d13/Spring-Dark.svg" />
+          <img alt="SpringBoot" width="30px" src="https://github.com/user-attachments/assets/637cb8c2-4c4e-4157-bacb-3fb128f04455" />
           &nbsp;
-          <img alt="Java" width="30px" src="https://raw.githubusercontent.com/zzangjyj0818/Github_User_Content/250d0ac27c7cfd8418823d26a74822e206f28d13/Java-Dark.svg" />
+          <img alt="Java" width="30px" src="https://github.com/user-attachments/assets/bdf61e6e-be18-4b93-8872-ef207d82a3b3" />
           &nbsp;
-          <img alt="MySQL" width="30px" src="https://raw.githubusercontent.com/zzangjyj0818/Github_User_Content/250d0ac27c7cfd8418823d26a74822e206f28d13/MySQL-Dark.svg" />
+          <img alt="MySQL" width="30px" src="https://github.com/user-attachments/assets/aa76d67d-2ad3-43e7-81b0-7a249eaffd79" />
           &nbsp;
         </div>
       </td>
@@ -27,11 +27,13 @@
       <td align="left">Infrastructure</td>
       <td>
           <div>
-            <img alt="AWS" width="30px" src="https://raw.githubusercontent.com/zzangjyj0818/Github_User_Content/250d0ac27c7cfd8418823d26a74822e206f28d13/AWS-Dark.svg" />
+            <img alt="AWS" width="30px" src="https://github.com/user-attachments/assets/251c8aa8-b2b5-43ce-8342-258e6e297ca0" />
             &nbsp;
-            <img alt="Nginx" width="30px" src="https://raw.githubusercontent.com/zzangjyj0818/Github_User_Content/250d0ac27c7cfd8418823d26a74822e206f28d13/Nginx.svg" />
+            <img alt="Nginx" width="30px" src="https://github.com/user-attachments/assets/82069c4d-f218-4a33-af98-0cbe72aaa59c" />
             &nbsp;
-            <img alt="GithubActions" width="30px" src="https://blog.kakaocdn.net/dn/dExbK3/btqD3I24Vm7/klw5iK8Dbpb7gRZAmeENwk/img.png" />
+            <img alt="Docker" width="30px" src="https://cdn-icons-png.flaticon.com/512/919/919853.png" />
+            &nbsp;
+            <img alt="GithubActions" width="30px" src="https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2F1p874%2FbtsyD7KW2Hm%2FN4m2knx9ayOkJLzSFAEXmk%2Fimg.png" />
             &nbsp;
             <br/>
         </div>

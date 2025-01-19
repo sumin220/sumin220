@@ -1,10 +1,4 @@
-![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)
 
-<img src="http://readme-typing-svg.herokuapp.com?font=Josefin+Slab&pause=1000&center=true&vCenter=true&width=435&lines=Hello+%F0%9F%91%8B%2C+I'm+Soo min;Learning+Backend+Web+Development...👨🏻‍💻;" style="width: 100%;">
-
-<img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=6c09b952ywypmb2ar3ssitss6ljpuo7824j9wn4g41y6ucp6&ep=v1_gifs_search&rid=giphy.gif&ct=g">
-
-<hr>
 
 <div align="left">
   <h2>🛠 Development Stack</h2>
@@ -63,7 +57,7 @@
 
 <br><br>
 
-## 📜Team Project
+## 📜Project
 |프로젝트|기간|
 |---|---|
 | 💿 **[KKSC 홈페이지 제작](https://github.com/orgs/KKSC-1/repositories) BE Part** | 2024.06 ~ 2024.08 |

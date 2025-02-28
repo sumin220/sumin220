@@ -20,6 +20,10 @@
           &nbsp;
           <img alt="MySQL" width="30px" src="https://github.com/user-attachments/assets/aa76d67d-2ad3-43e7-81b0-7a249eaffd79" />
           &nbsp;
+          <img alt="TypeScript" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" />
+          &nbsp;
+          <img alt="NestJS" width="30px" src="https://i.namu.wiki/i/X7RPRZJiL_bDk-b5yfaeCqEaINp3iwm7ngVhzN9LDg4hNjz0Bs3QTo7pgbCfGW3xp_sQZxMGUfnxBAXGNFwGKw.svg" />
+          &nbsp;
         </div>
       </td>
     </tr>
@@ -61,9 +65,6 @@
 | ☁️ **[9oormthon.Univ](https://9oormthon.university/) 4기 중앙운영진 PM** | 2025.02 ~|
 | ☁️ **[9oormthon.Univ](https://9oormthon.university/) 4기 학교 부대표** | 2025.02 ~ 2025.11|
 
-
-<br>
-
 <br><br>
 
 ## 📜Team Project
@@ -81,7 +82,6 @@
 
 
 
-<br>
 
 <hr>
 

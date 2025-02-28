@@ -55,9 +55,12 @@
 |경험|기간|
 |---|---|
 | 🎓 **[Gachon University, Department of Computer Engineering](https://www.gachon.ac.kr/sites/cs/index.do) Undergraduate Student** | 2024.03 ~ |
-| 💿 **[KKSC](kksc.kr) BackEnd** | 2024.03 ~ |
+| 💿 **[KKSC](kksc.kr) BackEnd** | 2024.03 ~ 2025.02|
 | ☁️ **[9oormthon.Univ](https://9oormthon.university/) 3기 BackEnd** | 2024.07 ~ 2024.12|
-| ⛺️ **[kakao X goorm DeepDive FullStack](https://deepdive.goorm.io/) 11회**| 2024.08 ~|
+| ⛺️ **[kakao X goorm DeepDive FullStack](https://deepdive.goorm.io/) 11회**| 2024.08 ~ 2025.02|
+| ☁️ **[9oormthon.Univ](https://9oormthon.university/) 4기 중앙운영진 PM** | 2025.02 ~|
+| ☁️ **[9oormthon.Univ](https://9oormthon.university/) 4기 학교 부대표** | 2025.02 ~ 2025.11|
+
 
 <br>
 
@@ -70,6 +73,9 @@
 | ☁️ **[Be:goorm](https://github.com/KagounivTeam2) BE Part** | 2024.09.28 ~ 2024.09.29 |
 | ☀️ **[Ye;summit](https://github.com/9oormthon-univ/2024_DANPOON_TEAM_36_BE) BE Part** | 2024.11.18 ~ 2024.11.24 |
 | 🥅 **[마음의 그림](https://github.com/P-Diary/diary-be) BE Part** | 2024.11.25 ~ 2024.12.18 |
+| 💰 **[살래말래](https://github.com/Buycision/buycision-be) BE Part** | 2024.12.23 ~ 2025.02.28 |
+| 🖥️ **[Codable](https://github.com/sumin220/9oorm_Codeable) BE Part** | 2025.01.13 ~ 2025.02.03 |
+| 📖 **[MoaBook](https://github.com/sumin220/BE) BE Part** | 2024.02.07 ~ 2024.02.28 |
 
 
 

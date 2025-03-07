@@ -77,7 +77,7 @@
 | 💰 **[살래말래](https://github.com/Buycision/buycision-be) BE Part** | 2024.12.23 ~ 2025.02.28 |
 | 🖥️ **[Codable](https://github.com/sumin220/9oorm_Codeable) BE Part** | 2025.01.13 ~ 2025.02.03 |
 | 📖 **[MoaBook](https://github.com/sumin220/BE) BE Part** | 2025.02.07 ~ 2025.02.28 |
-| 🐶 **[털뭉치](https://github.com/Teolmungchi) BE Part** | 2025.03.04 ~ |
+| 🐶 **[셜록냥즈](https://github.com/Teolmungchi) BE Part** | 2025.03.04 ~ |
 
 
 

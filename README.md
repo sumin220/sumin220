@@ -63,7 +63,6 @@
 | ☁️ **[9oormthon.Univ](https://9oormthon.university/) 3기 BackEnd** | 2024.07 ~ 2024.12|
 | ⛺️ **[kakao X goorm DeepDive FullStack](https://deepdive.goorm.io/) 11회**| 2024.08 ~ 2025.02|
 | ☁️ **[9oormthon.Univ](https://9oormthon.university/) 4기 중앙운영진 PM** | 2025.02 ~|
-| ☁️ **[9oormthon.Univ](https://9oormthon.university/) 4기 학교 부대표** | 2025.02 ~ 2025.11|
 
 <br><br>
 

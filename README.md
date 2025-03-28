@@ -8,19 +8,26 @@
   <h2>🛠 Development Stack</h2>
 
   <table>
+        <tr>
+      <td align="center">Language</td>
+      <td>
+        <div align="left">
+          <img alt="Java" width="30px" src="https://github.com/user-attachments/assets/bdf61e6e-be18-4b93-8872-ef207d82a3b3" />
+          &nbsp;
+          <img alt="JavaScript" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png" />
+          &nbsp;
+          <img alt="TypeScript" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" />
+          &nbsp;
+        </div>
+      </td>
+    </tr>
     <tr>
       <td align="center">Backend</td>
       <td>
         <div align="left">
           <img alt="SpringBoot" width="30px" src="https://github.com/user-attachments/assets/637cb8c2-4c4e-4157-bacb-3fb128f04455" />
           &nbsp;
-          <img alt="Java" width="30px" src="https://github.com/user-attachments/assets/bdf61e6e-be18-4b93-8872-ef207d82a3b3" />
-          &nbsp;
           <img alt="MySQL" width="30px" src="https://github.com/user-attachments/assets/aa76d67d-2ad3-43e7-81b0-7a249eaffd79" />
-          &nbsp;
-          <img alt="JavaScript" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png" />
-          &nbsp;
-          <img alt="TypeScript" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" />
           &nbsp;
           <img alt="NestJS" width="30px" src="https://i.namu.wiki/i/X7RPRZJiL_bDk-b5yfaeCqEaINp3iwm7ngVhzN9LDg4hNjz0Bs3QTo7pgbCfGW3xp_sQZxMGUfnxBAXGNFwGKw.svg" />
           &nbsp;

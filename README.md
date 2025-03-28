@@ -1,10 +1,6 @@
 
 <img src="http://readme-typing-svg.herokuapp.com?font=Josefin+Slab&pause=1000&center=true&vCenter=true&width=435&lines=Hello+%F0%9F%91%8B%2C+I'm+Soo min!;" style="width: 100%;">
 
-<img align="right" alt="Coding" width="380" src="https://media3.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=6c09b952ywypmb2ar3ssitss6ljpuo7824j9wn4g41y6ucp6&ep=v1_gifs_search&rid=giphy.gif&ct=g">
-
-
-<div align="left">
   <h2>🛠 Development Stack</h2>
 
   <table>

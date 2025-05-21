@@ -38,6 +38,8 @@
             &nbsp;
             <img alt="AWS S3" width="30px" src="https://static-00.iconduck.com/assets.00/aws-s3-simple-storage-service-icon-1694x2048-ygs8j98c.png" />
           &nbsp;
+             <img alt="Minio" width="30px" height="35px" src="https://cdn.worldvectorlogo.com/logos/minio-1.svg" />
+          &nbsp;
             <img alt="Nginx" width="30px" src="https://github.com/user-attachments/assets/82069c4d-f218-4a33-af98-0cbe72aaa59c" />
             &nbsp;
             <img alt="Docker" width="30px" src="https://cdn-icons-png.flaticon.com/512/919/919853.png" />

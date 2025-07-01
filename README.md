@@ -67,9 +67,9 @@
 |---|---|
 | 🎓 **[Gachon University, Department of Computer Engineering](https://www.gachon.ac.kr/sites/cs/index.do) Undergraduate Student** | 2024.03 ~ |
 | 💿 **[KKSC](kksc.kr) BackEnd** | 2024.03 ~ 2025.02|
-| ☁️ **[goormthonUniv](https://9oormthon.university/) 3기 BackEnd** | 2024.07 ~ 2024.12|
-| ⛺️ **[kakao X goorm DeepDive FullStack](https://deepdive.goorm.io/) 11회**| 2024.08 ~ 2025.02|
-| ☁️ **[goormthonUniv](https://9oormthon.university/) 4기 중앙운영진 PM** | 2025.02 ~|
+| ☁️ **[kakao x goorm goormthonUniv](https://9oormthon.university/) 3기 BackEnd** | 2024.07 ~ 2024.12|
+| ⛺️ **[goorm x Inflearn DeepDive FullStack](https://deepdive.goorm.io/) 11회**| 2024.08 ~ 2025.02|
+| ☁️ **[kakao x goorm goormthonUniv](https://9oormthon.university/) 4기 중앙운영진 PM** | 2025.02 ~|
 
 <br><br>
 
@@ -83,7 +83,7 @@
 | 💰 **[살래말래](https://github.com/Buycision/buycision-be) BE Part** | 2024.12.23 ~ 2025.02.28 |
 | 🖥️ **[Codable](https://github.com/sumin220/9oorm_Codeable) BE Part** | 2025.01.13 ~ 2025.02.03 |
 | 📖 **[MoaBook](https://github.com/sumin220/BE) BE Part** | 2025.02.07 ~ 2025.02.28 |
-| 🐶 **[셜록냥즈](https://github.com/Teolmungchi) BE Part** | 2025.03.04 ~ |
+| 🐶 **[셜록냥즈](https://github.com/Teolmungchi) BE Part** | 2025.03.04 ~ 2025.06.05|
 
 
 

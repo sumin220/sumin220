@@ -90,14 +90,8 @@
 
 
 
-<hr>
 
-<div>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sumin220&show_icons=true&locale=en&layout=compact" alt="sumin220" /> 
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=sumin220&show_icons=true&locale=en" alt="sumin220" />
-</div>
-
-<hr>
+<br><br>
 
 <h3>🏆Algorithm</h3>
 <div>

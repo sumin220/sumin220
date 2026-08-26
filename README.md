@@ -5,18 +5,18 @@
 
   <table>
         <tr>
-      <td align="center">Language</td>
-      <td>
-        <div align="left">
-          <img alt="Java" width="30px" src="https://github.com/user-attachments/assets/bdf61e6e-be18-4b93-8872-ef207d82a3b3" />
-          &nbsp;
-          <img alt="JavaScript" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png" />
-          &nbsp;
-          <img alt="TypeScript" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" />
-          &nbsp;
-        </div>
-      </td>
-    </tr>
+<td align="center">Language</td>
+<td>
+<div align="left">
+<img alt="Java" width="30px" src="https://github.com/user-attachments/assets/bdf61e6e-be18-4b93-8872-ef207d82a3b3" />
+&nbsp;
+<img alt="JavaScript" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" />
+&nbsp;
+<img alt="TypeScript" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" />
+&nbsp;
+</div>
+</td>
+</tr>
     <tr>
       <td align="center">Backend</td>
       <td>
